@@ -1,0 +1,3 @@
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/CMakeFiles/rebuild_cache.dir
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/CMakeFiles/edit_cache.dir
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/CMakeFiles/BinaryRenderer.dir

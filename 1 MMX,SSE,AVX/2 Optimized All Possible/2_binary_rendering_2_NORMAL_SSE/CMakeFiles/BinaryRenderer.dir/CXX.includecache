@@ -1,0 +1,206 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/External/Clock.cpp
+Clock.h
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/External/Clock.h
+
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/External/Clock.h
+chrono
+-
+
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/External/ImageManager.cpp
+ImageManager.h
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/External/ImageManager.h
+stdexcept
+-
+sstream
+-
+iostream
+-
+stb/stb_image.h
+-
+stb/stb_image_write.h
+-
+
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/External/ImageManager.h
+Sprite.h
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/External/Sprite.h
+FrameBuffer.h
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/External/FrameBuffer.h
+string
+-
+
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/External/SceneLoader.cpp
+SceneLoader.h
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/External/SceneLoader.h
+Scene.h
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/External/Scene.h
+ImageManager.h
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/External/ImageManager.h
+fstream
+-
+sstream
+-
+stdexcept
+-
+unordered_map
+-
+
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/External/SceneLoader.h
+string
+-
+
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/Source/FrameBuffer.cpp
+FrameBuffer.h
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/Source/FrameBuffer.h
+
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/Source/FrameBuffer.h
+cstdint
+-
+
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/Source/GP_ONE.cpp
+GP_ONE.h
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/Source/GP_ONE.h
+xmmintrin.h
+-
+
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/Source/GP_ONE.h
+Sprite.h
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/Source/Sprite.h
+SpriteInstance.h
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/Source/SpriteInstance.h
+FrameBuffer.h
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/Source/FrameBuffer.h
+
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/Source/Scene.h
+Sprite.h
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/Source/Sprite.h
+FrameBuffer.h
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/Source/FrameBuffer.h
+SpriteInstance.h
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/Source/SpriteInstance.h
+string
+-
+vector
+-
+
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/Source/Sprite.cpp
+Sprite.h
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/Source/Sprite.h
+
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/Source/Sprite.h
+cstdint
+-
+
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/Source/SpriteInstance.h
+cstdint
+-
+
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/Source/main.cpp
+iostream
+-
+Clock.h
+-
+ImageManager.h
+-
+SceneLoader.h
+-
+Scene.h
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/Source/Scene.h
+GP_ONE.h
+/home/redragon/CG TASK1/1 MMX,SSE,AVX/2 Optimized All Possible/2_binary_rendering_2_NORMAL_SSE/Source/GP_ONE.h
+
+External/Clock.h
+chrono
+-
+
+External/ImageManager.h
+Sprite.h
+External/Sprite.h
+FrameBuffer.h
+External/FrameBuffer.h
+string
+-
+
+External/SceneLoader.h
+string
+-
+
+External/stb/stb_image.h
+stb_image.h
+External/stb/stb_image.h
+stdio.h
+-
+stdlib.h
+-
+stdarg.h
+-
+stddef.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+math.h
+-
+stdio.h
+-
+assert.h
+-
+stdint.h
+-
+emmintrin.h
+-
+intrin.h
+-
+arm_neon.h
+-
+
+External/stb/stb_image_write.h
+stdlib.h
+-
+stdio.h
+-
+stdarg.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+assert.h
+-
+
+Source/FrameBuffer.h
+cstdint
+-
+
+Source/Scene.h
+Sprite.h
+Source/Sprite.h
+FrameBuffer.h
+Source/FrameBuffer.h
+SpriteInstance.h
+Source/SpriteInstance.h
+string
+-
+vector
+-
+
+Source/Sprite.h
+cstdint
+-
+
+Source/SpriteInstance.h
+cstdint
+-
+
